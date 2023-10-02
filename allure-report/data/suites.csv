@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 02 11:24:00 CEST 2023","Mon Oct 02 11:24:08 CEST 2023","8091","","My registration test","","","","Should not register with wrong credentials",""
+"passed","Mon Oct 02 11:23:35 CEST 2023","Mon Oct 02 11:23:39 CEST 2023","4394","","My login test","","","","Should log in with wrong credentials",""
+"passed","Mon Oct 02 11:24:20 CEST 2023","Mon Oct 02 11:24:26 CEST 2023","5783","","My account removal test","","","","Should remove account from db using admin panel",""
+"passed","Mon Oct 02 11:23:47 CEST 2023","Mon Oct 02 11:23:54 CEST 2023","6245","","My login test","","","","Should not log in with wrong credentials",""
+"passed","Mon Oct 02 11:23:21 CEST 2023","Mon Oct 02 11:23:27 CEST 2023","5212","","My login test","","","","Should log in with valid credentials",""
