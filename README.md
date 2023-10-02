@@ -22,8 +22,9 @@ To run tests simply paste the following commands into the terminal:
 npx wdio wdio.conf.ts
 ```
 If all tests passed you will get information like this
+  
 ![image](https://github.com/filiprak01/bike-shop-functional-tests-webdriveio/assets/87765656/6397bd68-0c2c-4698-85b0-47ca21452bc2)
-
+  
 ## Allure reports
 To generate allure reports enter the following command: 
 ``` console
